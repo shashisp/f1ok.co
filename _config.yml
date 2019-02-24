@@ -1,6 +1,6 @@
 # Site settings
-name: Elixir Companies
-description: A curated list of companies using Elixir in production, organized by industry.
+name: f1ok.co
+description: A curated list of companies hiring International Student on F1 visa.
 maintainers:
   - doomspork
   - burden
@@ -11,7 +11,7 @@ plugins:
   - uglifier
 
 # Social settings
-github: doomspork/elixir-companies
+github: shashisp/f1ok.co
 
 # Build settings
 source: src
