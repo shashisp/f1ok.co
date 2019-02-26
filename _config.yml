@@ -1,9 +1,8 @@
 # Site settings
 name: f1ok.co
-description: A curated list of companies hiring International Student on F1 visa.
+description: A curated list of companies hiring International Students on F1 visa.
 maintainers:
-  - doomspork
-  - burden
+  - shashisp
 
 plugins:
   - jekyll-assets
