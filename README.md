@@ -11,5 +11,5 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
-This site a fork ok [Elixir Companies] [https://github.com/doomspork/elixir-companies]
+This site a fork of [Elixir Companies](https://github.com/doomspork/elixir-companies)
 
